@@ -1,0 +1,9 @@
+static <return type> <func name>(arguments)
+#Simple inheritance
+   grandfather assets -> father's assets
+#multiple level inheritance
+      grandfather's assets -> father's assets -> son's asset -> .....n times
+
+      x->
+      y->    a              a inherits assets from x,y,z(Multiple)
+      z-> 
